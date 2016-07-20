@@ -1,4 +1,4 @@
-package ter.util;
+package com.org.ter.util;
 
 public class IntPair {
   public int car;

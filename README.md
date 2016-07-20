@@ -1,3 +1,6 @@
+This is a modified version of TER 0.8.0 (https://github.com/jhclark/tercom).
+Below is the original README from GitHub where the usage no longer applies.
+
 ------------------------------------------------------------------------
                      TRANSLATION ERROR RATE (TER) 0.8.0
 

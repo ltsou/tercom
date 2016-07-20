@@ -1,4 +1,4 @@
-package com.org.ter.io;
+package ter.io;
 
 import java.util.HashMap;
 import java.util.Map;

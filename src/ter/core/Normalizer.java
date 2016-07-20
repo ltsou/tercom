@@ -1,4 +1,4 @@
-package com.org.ter.core;
+package ter.core;
 
 public class Normalizer {
 

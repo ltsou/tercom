@@ -1,10 +1,10 @@
-package com.org.ter.core;
+package ter.core;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import com.org.ter.io.SgmlProcessor;
+import ter.io.SgmlProcessor;
 
 public class AlignmentStringUtils {
 

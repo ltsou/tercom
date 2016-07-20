@@ -37,7 +37,7 @@
 
 */
 
-package com.org.ter.core;
+package ter.core;
 
 import java.util.HashSet;
 import java.util.TreeSet;
@@ -49,9 +49,9 @@ import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-import com.org.ter.util.Pair;
-import com.org.ter.util.IntPair;
-import com.org.ter.util.StringUtils;
+import ter.util.Pair;
+import ter.util.IntPair;
+import ter.util.StringUtils;
 
 public class TerScorer {
     /* Turn on if you want a lot of debugging info. */

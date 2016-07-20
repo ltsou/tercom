@@ -1,4 +1,4 @@
-package com.org.ter.io;
+package ter.io;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -19,7 +19,7 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 
-import com.org.ter.core.Shift;
+import ter.core.Shift;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NamedNodeMap;
@@ -28,7 +28,7 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
 
-import com.org.ter.core.Alignment;
+import ter.core.Alignment;
 
 public class SgmlProcessor {
     public static enum TAGNAME {

@@ -1,4 +1,4 @@
-package com.org.ter;
+package ter;
 
 import java.util.ArrayList;
 import java.util.HashMap;

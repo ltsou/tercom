@@ -37,7 +37,7 @@
 
 */
 
-package com.org.ter.core;
+package ter.core;
 
 
 /*

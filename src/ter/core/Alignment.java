@@ -37,10 +37,10 @@
 
 */
 
-package com.org.ter.core;
+package ter.core;
 
 
-import com.org.ter.util.StringUtils;
+import ter.util.StringUtils;
 
 
 /* Storage Class for TER alignments */

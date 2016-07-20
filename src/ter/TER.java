@@ -7,14 +7,14 @@
  * TERtest.java v2, added SGML input support.
  * Shuguang Wang (swang@bbn.com)
  */
-package com.org.ter;
+package ter;
 
 import java.util.Map;
 
-import com.org.ter.core.CostFunction;
-import com.org.ter.core.TerScorer;
-import com.org.ter.core.Alignment;
-import com.org.ter.Parameters.OPTIONS;
+import ter.core.CostFunction;
+import ter.core.TerScorer;
+import ter.core.Alignment;
+import ter.Parameters.OPTIONS;
 
 public class TER {
     TerScorer calc;
